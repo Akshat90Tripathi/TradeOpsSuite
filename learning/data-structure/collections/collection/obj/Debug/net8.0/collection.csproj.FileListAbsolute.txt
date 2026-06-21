@@ -1,0 +1,14 @@
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.AssemblyInfoInputs.cache
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.AssemblyInfo.cs
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.csproj.CoreCompileInputs.cache
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\bin\Debug\net8.0\collection.exe
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\bin\Debug\net8.0\collection.deps.json
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\bin\Debug\net8.0\collection.runtimeconfig.json
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\bin\Debug\net8.0\collection.dll
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\bin\Debug\net8.0\collection.pdb
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.dll
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\refint\collection.dll
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.pdb
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\collection.genruntimeconfig.cache
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\learning\data-structure\collections\collection\obj\Debug\net8.0\ref\collection.dll

@@ -1,0 +1,14 @@
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\bin\Debug\net8.0\my-client.exe
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\bin\Debug\net8.0\my-client.deps.json
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\bin\Debug\net8.0\my-client.runtimeconfig.json
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\bin\Debug\net8.0\my-client.dll
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\bin\Debug\net8.0\my-client.pdb
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.AssemblyInfoInputs.cache
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.AssemblyInfo.cs
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.csproj.CoreCompileInputs.cache
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.dll
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\refint\my-client.dll
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.pdb
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\my-client.genruntimeconfig.cache
+C:\Users\91967\OneDrive\Documents\workspace\MainProject\client\my-client\obj\Debug\net8.0\ref\my-client.dll
