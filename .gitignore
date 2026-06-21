@@ -1,0 +1,50 @@
+## Ignore Visual Studio temporary files, build output, and sensitive files
+
+# Build Folders
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+artifacts/
+
+# Test results
+TestResults/
+*.TestResults
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# IIS Express
+/.vs/config/
+
+# dotCover
+.dotCover
+
+# Coverage
+coverage/

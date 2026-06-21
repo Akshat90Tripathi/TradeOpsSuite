@@ -1,0 +1,23 @@
+
+using System.Collections;
+using System.Collections.ObjectModel;
+
+namespace collection;
+
+public class ICollectionClass
+{
+    public ICollection<int> collection = [1,2,3,4,5,6];
+
+    public ICollection<int> sequence = new Collection<int>{1,2,3,4};
+
+    public ICollection<int> emptyCollection = [];
+
+    public void TestCollection()
+    {
+        Console.WriteLine($"Count of collection : {collection.Count}");
+
+        collection.Add(7);
+
+        Console.WriteLine($"Count of collection : {collection.Count}");
+    }
+}
